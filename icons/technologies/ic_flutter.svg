@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="89.65"
+   height="111.105"
+   id="flutter"
+   version="1.1"
+   sodipodi:docname="flutter.svg"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.8486566"
+     inkscape:cx="55.640262"
+     inkscape:cy="76.702822"
+     inkscape:window-width="1600"
+     inkscape:window-height="829"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="flutter" />
+  <g
+     fill-rule="evenodd"
+     id="g4"
+     transform="matrix(0.67890887,0,0,0.67890887,13.339621,16.499005)">
+    <path
+       fill="#02539a"
+       d="M 56.226,111.105 26.166,81.237 42.782,64.331 89.649,111.105 Z"
+       data-name="Path 272"
+       id="path1" />
+    <g
+       data-name="Group 25"
+       id="g3">
+      <path
+         fill="rgba(69,209,253,0.85)"
+         d="m 25.795,81.26 29.8,-29.8 h 33.5 L 42.736,97.818 Z"
+         data-name="Path 273"
+         id="path2" />
+      <path
+         fill="#45d1fd"
+         d="M 0,55.268 16.918,72.175 89.093,0 H 55.419 Z"
+         data-name="Path 274"
+         id="path3" />
+    </g>
+  </g>
+</svg>
