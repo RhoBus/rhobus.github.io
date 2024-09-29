@@ -5,7 +5,7 @@
 I've been coding for mobile apps the last 4 years, I consider myself an eternal student. I do what I love and got paid for that! ❤️🧑🏽‍💻📱
 
 *   🌍  I'm based in Cochabamba, Bolivia
-*   🖥️  See my portfolio at [Rbustillos.dev](http://rbustillos.dev)
+*   🖥️  See my portfolio at [RhoBus.github.io](http://RhoBus.github.io)
 *   🧠  I'm learning MVI and Jetpack Compose
 *   🤝  I'm open to collaborating on any kind of mobile projects
 *   ⚡  I truly believe that "From failure we learn, from success not so much".
